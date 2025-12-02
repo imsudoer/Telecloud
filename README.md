@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Telecloud</h1>
-    <img width="1919" height="720" alt="pic" src="https://github.com/user-attachments/assets/91422e89-62c7-452f-a45c-227c8ec6665b" /><br>
+    <img width="1919" height="720" alt="pic" src="https://github.com/user-attachments/assets/8b2ed46f-8569-48a9-ba2a-a6b59c4d6432" /><br>
     Unlimited Cloud API storage
     <p>Made by <bold>~$ sudo++</bold></p>
     <img alt="code size" src="https://img.shields.io/github/languages/code-size/imsudoer/telecloud?style=for-the-badge">
